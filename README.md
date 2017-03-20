@@ -11,3 +11,5 @@ In the included pages in script settings you need to add:
 http://reliancebroadband.co.in/reliance/startportal_isg.do?CPURL=null
 
 http://reliancebroadband.co.in/reliance/login.do
+
+Put your username and password in the provided field in the script and save.
